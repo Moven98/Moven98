@@ -3,7 +3,9 @@
 - 🌱 I’m currently an undergraduate student at Rochester Institute of Technology
 - 💞️ My major is Computing & Info Tech 
 - 📫 How to reach me: 
+     
      Email: movenlee98@gmail.com
+     
      Linkedln: linkedin.com/in/moven-lee-913946238
      
 
