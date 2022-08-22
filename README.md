@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Moven98
 - 👀 I’m interested in the IT field
-- 🌱 I’m currently an undergraduate student at James Madison High School
-- 💞️ My intended major is Computer Science
+- 🌱 I’m currently an undergraduate student at Rochester Institute of Technology
+- 💞️ My major is Computing & Info Tech 
 - 📫 How to reach me: 
      Email: movenlee98@gmail.com
+     Linkedln: linkedin.com/in/moven-lee-913946238
      
 
 <!---
