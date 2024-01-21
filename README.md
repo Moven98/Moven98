@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moven98
 - 👀 I’m interested in the IT field
 - 🌱 I’m currently an undergraduate student at Rochester Institute of Technology
-- 💞️ My major is Computing & Info Tech 
+- 💞️ My major is Management Information Systems 
 - 📫 How to reach me: 
      
      Email: movenlee98@gmail.com
